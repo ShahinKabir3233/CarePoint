@@ -1,0 +1,672 @@
+@media(max-width: 419px){
+		/*header section starts here*/
+	.header .social .inner-social{
+		margin: auto;
+	}
+	.header .social .inner-social .details p{
+		margin: 4px 0px 0px 20px;
+	}
+	.header .social .inner-social{
+		margin: 15px 0px 0px 0px;
+	}
+	.header .social .icon{
+		text-align: center;
+	}
+	/*header section ends here*/
+
+
+
+
+	/*slider section starts here*/
+	.slider{
+		padding: 80px 0px;
+	}
+	.slider .details p br{
+		display: none;
+	}
+	/*slider section ends here*/
+
+
+
+
+	/*why section starts hete*/
+	.why{
+		padding: 50px 0px 50px 0px;
+	}
+	.why .headings h1{
+		font-size: 38px;
+		margin: 0px 0px 30px 0px;
+	}
+	.why .headings p{
+		font-size: 16px;
+		margin: 0px 0px 30px 0px;
+	}
+	.why .headings p br{
+		display: none;
+	}
+	.why .pic{
+		text-align: center;
+	}
+	.why .pic img{
+		width: 50%;
+	}
+	.why .details {
+		margin: 10px 0px 0px 0px; 
+	}
+	.why .details p{
+		margin-left: 10px;
+	}
+	/*why section ends here*/
+
+
+
+
+	.work{
+		padding: 0px 0px 80px 0px;
+	}
+	.work .inner-work .donation{
+		margin: 10px 0px 0px 0px;
+	}
+	.work .inner-work .heartbeat{
+		margin: 22px 0px 0px 0px;
+	}
+	.work .inner-work .helicopter2{
+		margin: 32px 0px 0px 0px;
+	}
+	.work .inner-work .lungs2{
+		margin: 25px 0px 0px 0px;
+	}
+	.work .inner-work h6{
+		margin: 10px 0px 0px 0px;
+	}
+	.work .inner-work{
+		margin-top: 80px;
+	}
+	.work .inner-work img{
+		width: 24%;
+	}
+	/*work section ends here*/
+
+
+
+
+	/*how section starts here*/
+	.how{
+		padding: 60px 0px;
+	}
+	.how .headings{
+		text-align: center;
+	}
+	.how .next .top{
+		text-align: center;
+		margin-top: 30px;
+	}
+	/*how section ends here*/
+
+
+
+
+	/*gallery section starts here*/
+	.gallery{
+		padding: 40px 0px;
+	}
+	.gallery .pic img{
+		margin: 10px 0px 0px 0px;
+		width: 85%;
+		height: 90%;
+		padding: 0px;
+	}
+	.gallery .second .col-sm-6{
+		width: 50%;
+	}
+	.gallery .headings h2{
+		font-size: 30px;
+	}
+	/*gallery section ends here*/
+
+
+
+
+	/*team section starts here*/
+	.team{
+		padding: 60px 0px 20px;
+	}
+	.team .details img{
+		width: 50%;
+	}
+	.team .headings p{
+		margin-bottom: 0px;
+	}
+	.team .headings h2{
+		font-size: 35px;
+	}
+	.team .details .icon{
+		margin-bottom: 40px;
+	}
+	/*team section ends here*/
+
+
+
+
+	/*offer section starts here*/
+	.offer{
+		text-align: center;
+	}
+	.offer p{
+		margin: 30px 0px 20px 0px;
+	}
+	.offer button{
+		margin: 0px 0px 30px 0px;
+	}
+	/*offer section ends here*/
+
+
+
+
+	/*footer section starts here*/
+	.footer{
+		padding: 0px 0px 60px 0px;
+	}
+	.footer h5{
+		margin: 60px 0px 10px 0px;
+		text-align: center;
+	}
+	.footer textarea, .footer input{
+		display: block;
+	}
+	.footer .first .row{
+		margin: 20px 0px 0px 0px;
+	}
+	.footer .first .icon{
+		margin: 0px 0px 0px 0px;
+	}
+	.footer .fourth input{
+		margin: auto;
+		width: 70%;
+	}
+	.footer .fourth textarea{
+		margin: auto;
+		width: 70%;
+	}
+	.footer .fourth button{
+		margin: 20px auto 0px;
+	}
+	/*footer section ends here*/
+}
+
+
+
+
+/*for xs*/
+@media(min-width: 420px) and (max-width: 575px){
+	/*header section starts here*/
+	.header .social .inner-social{
+		margin: auto;
+	}
+	.header .social .inner-social .details p{
+		margin: 4px 0px 0px 15px;
+	}
+	.header .social .inner-social{
+		margin: 15px 0px 0px 0px;
+	}
+	.header .social .icon{
+		text-align: center;
+	}
+	/*header section ends here*/
+
+
+
+
+	/*why section starts hete*/
+	.why{
+		padding: 60px 0px 60px 0px;
+	}
+	.why .headings h1{
+		font-size: 38px;
+		margin: 0px 0px 30px 0px;
+	}
+	.why .headings p{
+		font-size: 16px;
+		margin: 0px 0px 30px 0px;
+	}
+	.why .headings p br{
+		display: none;
+	}
+	.why .pic{
+		text-align: center;
+	}
+	.why .pic img{
+		width: 60%;
+	}
+	/*why section ends here*/
+
+
+
+
+	.work{
+		padding: 20px 0px 100px 0px;
+	}
+	.work .inner-work .donation{
+		margin: 10px 0px 0px 0px;
+	}
+	.work .inner-work .heartbeat{
+		margin: 22px 0px 0px 0px;
+	}
+	.work .inner-work .helicopter2{
+		margin: 32px 0px 0px 0px;
+	}
+	.work .inner-work .lungs2{
+		margin: 25px 0px 0px 0px;
+	}
+	.work .inner-work h6{
+		margin: 10px 0px 0px 0px;
+	}
+	.work .inner-work{
+		margin-top: 80px;
+	}
+	.work .inner-work img{
+		width: 20%;
+	}
+	/*work section ends here*/
+
+
+
+
+	/*how section starts here*/
+	.how{
+		padding: 60px 0px;
+	}
+	.how .headings{
+		text-align: center;
+	}
+	.how .next .top{
+		text-align: center;
+	}
+	.how .inner .col-sm-6{
+		width: 50%;
+	}
+	/*how section ends here*/
+
+
+
+
+	/*gallery section starts here*/
+	.gallery{
+		padding: 60px 0px;
+	}
+	.gallery .pic img{
+		margin: 10px 0px 0px 0px;
+		width: 85%;
+		height: 90%;
+		padding: 0px;
+	}
+	.gallery .second .col-sm-6{
+		width: 50%;
+	}
+	.gallery .headings h2{
+		font-size: 35px;
+	}
+	/*gallery section ends here*/
+
+
+
+
+	/*team section starts here*/
+	.team{
+		padding: 60px 0px 20px;
+	}
+	.team .details img{
+		width: 50%;
+	}
+	.team .headings p{
+		margin-bottom: 0px;
+	}
+	.team .headings h2{
+		font-size: 35px;
+	}
+	.team .details .icon{
+		margin-bottom: 40px;
+	}
+	/*team section ends here*/
+
+
+
+
+	/*offer section starts here*/
+	.offer{
+		text-align: center;
+	}
+	.offer p{
+		margin: 40px 0px 20px 0px;
+	}
+	.offer button{
+		margin: 0px 0px 40px 0px;
+	}
+	/*offer section ends here*/
+
+
+
+
+	/*footer section starts here*/
+	.footer{
+		padding: 0px 0px 60px 0px;
+	}
+	.footer h5{
+		margin: 60px 0px 10px 0px;
+		text-align: center;
+	}
+	.footer textarea, .footer input{
+		display: block;
+	}
+	.footer .first .row{
+		margin: 20px 0px 0px 0px;
+	}
+	.footer .first .icon{
+		margin: 0px 0px 0px 0px;
+	}
+	.footer .fourth input{
+		margin: auto;
+		width: 70%;
+	}
+	.footer .fourth textarea{
+		margin: auto;
+		width: 70%;
+	}
+	.footer .fourth button{
+		margin: 20px auto 0px;
+		width: 30%;
+	}
+	/*footer section ends here*/
+}
+
+
+
+
+/*for sm*/
+@media(min-width: 576px) and (max-width: 767px){
+	/*header section starts here*/
+	.header .social .inner-social{
+		margin: 15px 0px 0px 0px;
+	}
+	/*header section ends here*/
+
+
+
+
+	/*slider section starts here*/
+	.slider{
+		padding: 100px 0px;
+	}
+	.slider .details h2 br{
+		display: none;
+	}
+	/*slider section ends here*/
+
+
+
+
+	/*why section starts hete*/
+	.why{
+		padding: 60px 0px 60px 0px;
+	}
+	.why .headings h1{
+		font-size: 38px;
+		margin: 0px 0px 30px 0px;
+	}
+	.why .headings p{
+		font-size: 16px;
+		margin: 0px 0px 30px 0px;
+	}
+	.why .headings p br{
+		display: none;
+	}
+	.why .pic{
+		text-align: center;
+	}
+	.why .pic img{
+		width: 60%;
+	}
+	/*why section ends here*/
+
+
+
+
+	/*work section starts here*/
+	.work{
+		padding: 20px 0px 100px 0px;
+	}
+	.work .inner-work .donation{
+		margin: 10px 0px 0px 0px;
+	}
+	.work .inner-work .heartbeat{
+		margin: 22px 0px 0px 0px;
+	}
+	.work .inner-work .helicopter2{
+		margin: 32px 0px 0px 0px;
+	}
+	.work .inner-work .lungs2{
+		margin: 15px 0px 0px 0px;
+	}
+	.work .inner-work h6{
+		margin: 10px 0px 0px 0px;
+	}
+	.work .inner-work{
+		margin-top: 80px;
+	}
+	/*work section ends here*/
+
+
+
+
+	/*how section starts here*/
+	.how{
+		padding: 80px 0px;
+	}
+	.how .headings{
+		text-align: center;
+	}
+	.how .next .top{
+		text-align: center;
+	}
+	/*how section ends here*/
+
+
+
+
+	/*gallery section starts here*/
+	.gallery{
+		padding: 60px 0px;
+	}
+	.gallery .pic img{
+		margin: 20px;
+		width: 95%;
+		height: 90%;
+	}
+	/*gallery section ends here*/
+
+
+
+
+
+	/*team section starts here*/
+	.team{
+		padding: 60px 0px 20px;
+	}
+	.team .details img{
+		width: 70%;
+	}
+	.team .headings p{
+		margin-bottom: 0px;
+	}
+	.team .details .icon{
+		margin-bottom: 40px;
+	}
+	/*team section ends here*/
+
+
+
+
+	/*offer section starts here*/
+	.offer{
+		text-align: center;
+	}
+	.offer p{
+		margin: 40px 0px 20px 0px;
+	}
+	.offer button{
+		margin: 0px 0px 40px 0px;
+	}
+	/*offer section ends here*/
+
+
+
+
+	/*footer section starts here*/
+	.footer{
+		padding: 40px 0px 100px 0px;
+	}
+	.footer h5{
+		margin: 60px 0px 30px 0px;
+	}
+	.footer textarea{
+		display: block;
+	}
+	/*footer section ends here*/
+
+
+
+
+	/*copyright section starts here*/
+	.copyright br{
+		display: none;
+	}
+	/*copyright section ends here*/
+}
+
+
+
+
+/*for md*/
+@media(min-width: 768px) and (max-width: 991px){
+	/*header section starts here*/
+	.header .social .fourth{
+		text-align: center;
+		margin: 10px auto 0px;
+	}	
+	.header .social .icon{
+		text-align: center;
+	}
+	/*header section ends here*/
+
+
+
+
+	/*why section starts here*/
+	.why{
+		padding: 80px 0px 0px 0px;
+	}
+	.why .pic img{
+		width: 100%;
+	}
+	.why .details {
+		margin: 13px 0px 0px 0px; 
+	}
+	/*why section ends here*/
+
+
+
+
+	/*work section starts here*/
+	.work .inner-work img{
+		width: 32%;
+	}
+	/*work section ends here*/
+
+
+
+
+	/*team section starts here*/
+	.team{
+		padding: 80px 0px;
+	}
+	.team .details img{
+		width: 70%;
+		margin: 40px 0px 0px 0px;
+	}
+	.team .headings p{
+		margin-bottom: 0px;
+	}
+	/*team section ends here*/
+
+
+
+
+	/*offer section starts here*/
+	.offer{
+		text-align: center;
+	}
+	.offer p{
+		margin: 40px 0px 20px 0px;
+	}
+	.offer button{
+		margin: 0px 0px 40px 0px;
+	}
+	/*offer section ends here*/
+
+
+
+
+	/*footer section starts here*/
+	.footer{
+		padding: 40px 0px 100px 0px;
+	}
+	.footer h5{
+		margin: 60px 0px 30px 0px;
+	}
+	/*footer section ends here*/
+
+
+
+
+	/*copyright section starts here*/
+	.copyright br{
+		display: none;
+	}
+	/*copyright section ends here*/
+}
+
+
+
+
+/*for lg*/
+@media(min-width: 992px) and (max-width: 1199px){
+	/*copyright section starts here*/
+	.copyright br{
+		display: none;
+	}
+	/*copyright section ends here*/
+}
+
+
+
+
+/*for xl*/
+@media(min-width: 1200px) and (max-width: 1399px){
+	/*copyright section starts here*/
+	.copyright br{
+		display: none;
+	}
+	/*copyright section ends here*/
+}
+
+
+
+
+/*for xxl*/
+@media(min-width: 1400px){
+	/*copyright section starts here*/
+	.copyright br{
+		display: none;
+	}
+	/*copyright section ends here*/
+}

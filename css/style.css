@@ -1,0 +1,447 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+a, a:hover{
+	text-decoration: none;
+}
+li{
+	list-style: none;
+}
+
+
+
+
+
+/*header section starts here*/
+.header{
+	padding: 0px 0px 0px 0px;
+	background: #fff;
+	border-bottom: 4px solid #ebebeb;
+	z-index: 9999 !important;
+}
+.header2{
+	padding: 0px 0px 10px 0px;
+}
+.navbar-wrapper {
+  	margin-top: 0px;
+  	position: relative;
+ 	z-index: 1000;
+}
+.isStuck{
+    left:0px;
+    width:100%;
+}
+.header .navbar img{
+	width: 130px;
+	margin: 0px 0px 0px 0px;
+}
+.header2 .social .inner-social .fa{
+	font-size: 45px;
+	color: #1a9bdd;
+	border-radius: 20%;
+}
+.header2 .social .inner-social .details p{
+	font-size: 12px;
+	margin: 4px 0px 0px 5px;
+	font-weight: 650;
+}
+.header .navbar ul li a{
+	font-size: 16px;
+	font-weight: 650;
+	margin: 0px 0px 0px 20px;
+}
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+    color: #1a9bdd;
+}
+.header2 .social .icon .fa{
+	font-size: 25px;
+	color: #959595;
+	margin: 20px 0px 0px 20px;
+}
+.header2 .social .inner-social{
+	margin: 10px 0px 0px 0px;
+}
+.header2 .social .icon .fa:hover{
+	color: #1a9bdd;
+}
+.header2 .social .col-lg-3{
+	padding: 0px;
+}
+
+/*header section ends here*/
+
+
+
+
+/*slider section starts here*/
+.slider{
+	background: url("../images/slider.png") center top no-repeat;
+	padding: 120px 0px;
+}
+.slider .details{
+	text-align: center;
+}
+.slider .details h2{
+	font-weight: 650;
+	margin: 0px 0px 20px 0px;
+	font-size: 39px;
+}
+.slider .details button{
+	background: #00aeef;
+	color: #fff;
+	padding: 7px 16px 7px 16px;
+	border-radius: 30px;
+	border: none;
+	margin: 20px 0px 0px 0px;
+	font-weight: 500;
+}
+.slider .details p{
+	font-size: 18px;
+}
+/*slider section ends here*/
+
+
+
+
+/*service section starts here*/
+.service h5{
+	color: #fff;
+	margin: 12px 0px 20px 0px;
+	font-size: 25px;
+}
+.service p{
+	color: #fff;
+	font-size: 16px;
+	margin-bottom: 0px;
+}
+.service .inner-service{
+	text-align: center;
+}
+.service img{
+	background: #fff;
+	border-radius: 40px;
+}
+.service .inner-service{
+	width: 90%;
+	padding: 60px 0px;
+	margin: auto;
+}
+.service .first{
+	background: #43b1d2;
+}
+.service .second{
+	background: #3eb6c6;
+}
+.service .third{
+	background: #3dbbba;
+}
+.service .fourth{
+	background: #37c3a8;
+}
+/*service section enes here*/
+
+
+
+
+/*why section starts here*/
+.why{
+	padding: 80px 0px 0px 0px;
+}
+.why .details img{
+	background: #1a9bdd;
+	border-radius: 30%;
+	padding: 0px;
+}
+.why .headings{
+	text-align: center;
+}
+.why .pic img{
+	width: 70%;
+}
+.why .headings h1{
+	font-size: 42px;
+	font-weight: 650;
+	margin: 0px 0px 30px 0px;
+}
+.why .headings p{
+	color: #959595;
+	margin: 0px 0px 50px 0px;
+}
+.why .details {
+	margin: 30px 0px 0px 0px; 
+}
+.why .details .icon{
+	text-align: right;
+}
+/*why section ends here*/
+
+
+
+
+/*work section starts here*/
+.work{
+	background: url("../images/mask.png") center top no-repeat;
+	padding: 100px 0px;
+}
+.work .inner-work{
+	text-align: center;
+}
+.work .inner-work h6{
+	color: #fff;
+	margin: 20px 0px 0px 0px;
+}
+.work .inner-work p{
+	color: #fff;
+	font-size: 35px;
+	font-weight: 650;
+}
+.work .inner-work img{
+	width: 25%;
+}
+.work .inner-work .donation{
+	margin: 25px 0px 0px 0px;
+}
+.work .inner-work .heartbeat{
+	margin: 37px 0px 0px 0px;
+}
+.work .inner-work .helicopter2{
+	margin: 47px 0px 0px 0px;
+}
+.work .inner-work .lungs2{
+	margin: 30px 0px 0px 0px;
+}
+/*work section ends here*/
+
+
+
+
+/*how section starts here*/
+.how{
+	padding: 80px 0px;
+}
+.how .headings h2{
+	font-weight: 650;
+	font-size: 40px;
+	margin: 0px 0px 30px 0px;
+}
+.how .headings p{
+	color: #959595;
+}
+.how .details img{
+	width: 100%;
+	margin: 20px 0px 0px 0px;
+}
+.how .details h5{
+	font-weight: 650;
+	margin: 20px 0px 0px 0px;
+}
+.how .next .top h2{
+	font-weight: 650;
+	font-size: 40px;
+	margin: 0px 0px 30px 0px;
+}
+.accordion-button::after{
+	display: none;
+}
+.how .next button{
+	background: #ebebeb;
+	margin: 10px 0px 0px 0px;
+	font-weight: 600;
+}
+.how .next button:hover,.how .next button:focus{
+	background: #1a9bdd;
+	color: #fff;
+}
+/*how section ends here*/
+
+
+
+
+/*gallery section starts here*/
+.gallery{
+	background: url("../images/gallery.png") center top no-repeat;
+	padding: 80px 0px;
+}
+.gallery .headings{
+	text-align: center;
+}
+.gallery .headings p{
+	color: #fff;
+	margin: 30px 0px 0px 0px;
+}
+.gallery .headings h2{
+	color: #fff;
+	width: 650;
+	font-size: 40px;
+}
+.gallery .pic img{
+	margin: 20px;
+	width: 100%;
+	height: 90%;
+}
+.gallery .pic{
+	text-align: center;
+}
+/*gallery section ends here*/
+
+
+
+
+/*team section starts here*/
+.team{
+	padding: 80px 0px;
+}
+.team .headings{
+	text-align: center;
+}
+.team .headings h2{
+	font-weight: 650;
+	font-size: 40px;
+	margin: 0px 0px 20px 0px;
+}.team .headings p{
+	color: #959595;
+}
+
+.team .details{
+	margin: 50px 0px 0px 0px;
+	text-align: center;
+}
+.team .details img{
+	width: 80%;
+}
+.team .details h6{
+	font-weight: 650;
+	margin: 20px 0px 7px 0px;
+}
+.team .details .icon{
+	margin: 0px;
+}
+.team .details .icon .fa{
+	margin: 0px 0px 0px 9px;
+	font-size: 18px;
+	color: #959595;
+}
+.team .details .icon .fa:hover, .team .details .icon .fa:hover{
+	color: #00aeef;
+}
+/*team section ends here*/
+
+
+
+
+/*offer section starts here*/
+.offer{
+	background: #e1e1e1;
+}
+.offer p{
+	font-weight: 650;
+	font-size: 25px;
+	margin: 35px 0px
+}
+.offer button{
+	color: #fff;
+	background: #00aeef;
+	padding: 7px 20px 7px 20px;
+	border: none;
+	border-radius: 30px;
+	font-weight: 550;
+	margin: 35px 0px;
+}
+/*offer section ends here*/
+
+
+
+
+/*footer section starts here*/
+.footer{
+	padding: 80px 0px;
+	background: #171717;
+}
+.footer h5{
+	color: #fff;
+	font-weight: 650;
+	margin: 0px 0px 40px 0px;
+}
+.footer .fa{
+	color: #fff;
+	font-size: 25px;
+}
+.footer p{
+	color: #fff;
+}
+.footer .first p{
+	margin: 0px 0px 0px 0px;
+}
+.footer .first .row{
+	margin: 40px 0px 0px 0px;
+}
+.footer .first .left i{
+	margin: 10px 0px 0px 0px;
+}
+.footer .first .icon{
+	margin: 40px 0px 0px 0px;
+	display: inline;
+}
+.footer .first .icon .fa{
+	margin: 50px 0px 0px 0px;
+}
+.footer .second ul{
+	padding: 0px 0px 0px 10px;
+}
+.footer .second ul img{
+	margin-right: 10px;
+}
+.footer .third ul{
+	padding: 0px 0px 0px 10px;
+}
+.footer .third ul img{
+	margin-right: 10px;
+}
+.footer .fourth input{
+	background: transparent;
+}
+.footer .fourth ::placeholder{
+	color: #fff;
+}
+.footer .fourth textarea{
+	background: transparent;
+}
+.footer .fourth button{
+	color: #fff;
+	background: #00aeef;
+	border: none;
+	border-radius: 30px;
+	padding: 5px 30px 5px 30px;
+	font-weight: 600;
+	margin: 20px 0px 0px 15px;
+	width: 50%;
+	text-align: center;
+}
+.footer .fourth input{
+	border: none;
+	border-bottom: 2px solid #464646;
+	padding: 10px 0px;
+	color: #fff;
+}
+.footer .fourth textarea{
+	border: none;
+	border-bottom: 2px solid #464646;
+	padding: 10px 0px;
+	color: #fff;
+}
+/*footer section ends here*/
+
+
+
+
+/*copyright section starts here*/
+.copyright{
+	background: #363636;
+	text-align: center;
+}
+.copyright p{
+	color: #c1c1c1;
+	margin: 30px 0px;
+}
+/*copyright section ends here*/
